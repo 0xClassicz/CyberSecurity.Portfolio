@@ -6,4 +6,4 @@
 
 - Check out my [Certifications](./Certifications/)
 - Check out my [Cybersecurity Projects](./Cybersecurity_Projects/)
-- Check out my [Learning](./Learning/)
+- Check out my [Coding Journey](./Learning/)
